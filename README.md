@@ -17,7 +17,7 @@ Using a hypothetical income-assessment example, this article follows a mathemati
 **Status:** Working draft
 **Related framework:** Four Epistemic Orientations (FEO)
 
-### [Who Decided Before You Pulled the Lever?](articles/who-decided-before-you-pulled-the-lever.md)
+### [Who Decided Before You Pulled the Lever?](articles/Who-Decided-Before-You-Pulled-the-Lever.md)
 
 *Authority and Responsibility in the Trolley Problem*
 
