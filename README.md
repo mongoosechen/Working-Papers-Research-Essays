@@ -6,7 +6,7 @@ Each article develops a standalone argument through close analysis of its subjec
 
 ## Articles
 
-### [When an Average Becomes a Fact](articles/when-an-average-becomes-a-fact.md)
+### [When an Average Becomes a Fact](articles/When-an-Average-Becomes-a-Fact.md)
 
 *The Changing Authority of a Mathematical Object*
 
